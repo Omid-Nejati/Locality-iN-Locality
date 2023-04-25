@@ -2,6 +2,8 @@
 
 This repo is the official implementation of ["Locality iN Locality"](https://arxiv.org/abs/2301.11553).
 
+## Train & Test --- Prepare data
+Please go to ["Instructions.ipynb"](https://github.com/Omid-Nejati/Locality-iN-Locality/blob/main/Instructions.ipynb) for complete detail on dataset preparation and Train/Test procedure or follow the instructions below. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-phpyKQSLdmwISrkVqprtXgEBMP3fFNz?usp=sharing)
 
 ## Citation
 If you find this project useful in your research, please consider cite:
